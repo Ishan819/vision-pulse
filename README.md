@@ -1,5 +1,7 @@
 # Vision Pulse 🤟
 
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 > Real-time ASL Sign Language Interpreter built with React, TensorFlow.js and MediaPipe
 
 ## What it does
